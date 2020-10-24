@@ -1,0 +1,61 @@
+[
+  {
+    "IdFuncionario": 1,
+    "Cpf": "2839239839",
+    "Salario": 2000.0,
+    "Setor": {
+      "IdSetor": 1,
+      "Nome": "TI"
+    },
+    "Funcoes": [
+      {
+        "IdFuncao": 1,
+        "Descricao": "Desenvolvimento"
+      },
+      {
+        "IdFuncao": 2,
+        "Descricao": "Suporte"
+      },
+      {
+        "IdFuncao": 3,
+        "Descricao": "Análise de Requisitos"
+      }
+    ],
+    "Nome": "Gabriel",
+    "DataNascimento": "1988-02-24T00:00:00"
+  },
+  {
+    "IdFuncionario": 2,
+    "Cpf": "283928293",
+    "Salario": 4000.0,
+    "Setor": {
+      "IdSetor": 1,
+      "Nome": "TI"
+    },
+    "Funcoes": [
+      {
+        "IdFuncao": 3,
+        "Descricao": "Análise de Requisitos"
+      }
+    ],
+    "Nome": "Laura",
+    "DataNascimento": "1935-01-15T00:00:00"
+  },
+  {
+    "IdFuncionario": 4,
+    "Cpf": "892902023",
+    "Salario": 1000.0,
+    "Setor": {
+      "IdSetor": 1,
+      "Nome": "TI"
+    },
+    "Funcoes": [
+      {
+        "IdFuncao": 2,
+        "Descricao": "Suporte"
+      }
+    ],
+    "Nome": "Pedro",
+    "DataNascimento": "2000-10-02T00:00:00"
+  }
+]

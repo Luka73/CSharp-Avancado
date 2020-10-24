@@ -1,0 +1,32 @@
+[
+  {
+    "IdCliente": 1,
+    "Email": "luana@gmail.com",
+    "Telefone": "29203002",
+    "Endereco": {
+      "IdEndereco": 1,
+      "Logradouro": "Rua das Laranjeiras 529",
+      "Bairro": "Laranjeiras",
+      "Cidade": "Rio de Janeiro",
+      "Estado": "RJ",
+      "Cep": "21210000"
+    },
+    "Nome": "Luana",
+    "DataNascimento": "1988-09-30T00:00:00"
+  },
+  {
+    "IdCliente": 2,
+    "Email": "marta@gmail.com",
+    "Telefone": "829283028",
+    "Endereco": {
+      "IdEndereco": 2,
+      "Logradouro": "Av. Vicente de Caravalho 1086",
+      "Bairro": "Vila da Penha",
+      "Cidade": "Rio de Janeiro",
+      "Estado": "RJ",
+      "Cep": "21205005"
+    },
+    "Nome": "Marta",
+    "DataNascimento": "1964-04-20T00:00:00"
+  }
+]

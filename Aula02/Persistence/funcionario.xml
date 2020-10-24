@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<funcionarios>
+  <funcionario>
+    <idFuncionario>1</idFuncionario>
+    <nome>Luana</nome>
+    <salario>2000</salario>
+    <dataAdmissao>2009-09-09T00:00:00</dataAdmissao>
+  </funcionario>
+  <funcionario>
+    <idFuncionario>2</idFuncionario>
+    <nome>Paula</nome>
+    <salario>3000</salario>
+    <dataAdmissao>2009-09-09T00:00:00</dataAdmissao>
+  </funcionario>
+</funcionarios>

@@ -1,0 +1,18 @@
+{
+  "IdFuncionario": 1,
+  "Nome": "Luana",
+  "Salario": 2000.0,
+  "DataAdmissao": "2009-09-09T00:00:00"
+}
+{
+  "IdFuncionario": 1,
+  "Nome": "Luana",
+  "Salario": 2000.0,
+  "DataAdmissao": "2009-09-09T00:00:00"
+}
+{
+  "IdFuncionario": 2,
+  "Nome": "Paula",
+  "Salario": 3000.0,
+  "DataAdmissao": "2009-09-09T00:00:00"
+}

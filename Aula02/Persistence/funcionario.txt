@@ -1,0 +1,42 @@
+DADOS DO FUNCIONÁRIO:
+
+Código...........: 1
+Nome.............: Luana
+Salário..........: 2000
+Data de Admissão.: 2009-09-09 12:00:00 AM
+DADOS DO FUNCIONÁRIO:
+
+Código...........: 1
+Nome.............: Luana
+Salário..........: 2000
+Data de Admissão.: 2009-09-09 12:00:00 AM
+DADOS DO FUNCIONÁRIO:
+
+Código...........: 1
+Nome.............: Luana
+Salário..........: 2000
+Data de Admissão.: 2009-09-09 12:00:00 AM
+DADOS DO FUNCIONÁRIO:
+
+Código...........: 1
+Nome.............: Luana
+Salário..........: 2000
+Data de Admissão.: 2009-09-09 12:00:00 AM
+DADOS DO FUNCIONÁRIO:
+
+Código...........: 1
+Nome.............: Luana
+Salário..........: 2000
+Data de Admissão.: 2009-09-09 12:00:00 AM
+DADOS DO FUNCIONÁRIO:
+
+Código...........: 1
+Nome.............: Luana
+Salário..........: 2000
+Data de Admissão.: 2009-09-09 12:00:00 AM
+DADOS DO FUNCIONÁRIO:
+
+Código...........: 2
+Nome.............: Paula
+Salário..........: 3000
+Data de Admissão.: 2009-09-09 12:00:00 AM

@@ -1,0 +1,47 @@
+﻿create table Setor (
+	IdSetor int primary key identity,
+	Nome nvarchar(100)
+);
+
+create table Funcionario (
+	IdFuncionario int primary key identity,
+	Nome nvarchar(100), 
+	DataNascimento date,
+	Cpf nvarchar(10),
+	Salario decimal(18,2),
+	IdSetor int
+	foreign key(IdSetor) references Setor(IdSetor)
+);
+
+create table Cliente (
+	IdCliente int primary key identity(1,1),
+	Nome nvarchar(100), 
+	DataNascimento date,
+	Email nvarchar(100),
+	Telefone nvarchar(20)
+);
+
+create table Endereco(
+	IdEndereco				integer		identity(1,1),
+	Logradouro		nvarchar(250),
+	Bairro		nvarchar(150),
+	Cidade		nvarchar(100),
+	Estado		nvarchar(50),
+	Cep			nvarchar(10),
+	IdCliente		integer,
+	primary key(IdEndereco),
+	foreign key(IdCliente) references Cliente(IdCliente)
+);
+
+create table Funcao (
+	IdFuncao int primary key identity,
+	Descricao nvarchar(100)
+);
+
+create table Funcionario_Funcao (
+	IdFuncionario_Funcao int primary key identity,
+	IdFuncionario int, 
+	IdFuncao int
+	foreign key(IdFuncionario) references Funcionario(IdFuncionario),
+	foreign key(IdFuncao) references Funcao(IdFuncao)
+);
